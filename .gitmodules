@@ -5,3 +5,16 @@
 [submodule "lib/solmate"]
 	path = lib/solmate
 	url = https://github.com/transmissions11/solmate
+[submodule "lib/molecule-core"]
+	path = lib/molecule-core
+	url = https://github.com/molecule-protocol/molecule-core
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/openzeppelin/openzeppelin-contracts
+	branch = v4.8.2
+[submodule "lib/eas-contracts"]
+	path = lib/eas-contracts
+	url = https://github.com/ethereum-attestation-service/eas-contracts
+[submodule "lib/chainlink-brownie-contracts"]
+	path = lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts

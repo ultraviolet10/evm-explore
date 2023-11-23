@@ -1,1 +1,4 @@
 @solmate/=lib/solmate/
+@molecule-core/=lib/molecule-core/v2/contracts
+@openzeppelin/=lib/openzeppelin-contracts/
+@chainlink/=lib/chainlink-brownie-contracts/
